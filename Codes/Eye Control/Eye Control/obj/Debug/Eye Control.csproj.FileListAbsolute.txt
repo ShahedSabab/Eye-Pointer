@@ -1,0 +1,81 @@
+c:\users\turbomaster\documents\visual studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Control.csprojResolveAssemblyReference.cache
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Control.csproj.GenerateResource.Cache
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\cudart32_65.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\cudart64_40_17.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\cufft32_65.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\cufft64_40_17.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\cvextern.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\cvextern_gpu.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\OpenCL.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_bioinspired290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_calib3d231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_calib3d290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_contrib231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_contrib290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_core231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_core290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_cudev290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_features2d231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_features2d290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ffmpeg290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ffmpeg_64.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_flann231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_flann290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpu231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpu290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuarithm290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpubgsegm290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpucodec290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpufeatures2d290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpufilters290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuimgproc290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpulegacy290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuoptflow290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpustereo290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuwarping290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_highgui231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_highgui290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_imgproc231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_imgproc290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_legacy231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_legacy290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ml231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ml290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_nonfree290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_objdetect231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_objdetect290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ocl290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_optim290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_photo290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_softcascade290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_stitching290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_superres290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_video231.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_video290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_videostab290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\ZedGraph.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.Util.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\MetroFramework.Design.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\MetroFramework.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Control.pdb

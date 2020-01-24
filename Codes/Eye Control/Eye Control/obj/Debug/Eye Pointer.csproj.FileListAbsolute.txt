@@ -1,0 +1,443 @@
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_bioinspired290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_calib3d290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_contrib290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_core290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_cudev290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_features2d290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ffmpeg290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_flann290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpu290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuarithm290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpubgsegm290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpucodec290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpufeatures2d290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpufilters290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuimgproc290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpulegacy290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuoptflow290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpustereo290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_gpuwarping290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_highgui290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_imgproc290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_legacy290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ml290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_nonfree290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_objdetect290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_ocl290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_optim290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_photo290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_softcascade290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_stitching290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_superres290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_video290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\opencv_videostab290.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\ZedGraph.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\Emgu.Util.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\MetroFramework.Design.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\MetroFramework.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+C:\Users\Turbomaster\Documents\Visual Studio 2013\Projects\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+F:\______Workplace_______\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+F:\______Workplace_______\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_bioinspired290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_calib3d290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_contrib290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_core290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_cudev290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_features2d290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_ffmpeg290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_flann290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpu290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpuarithm290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpubgsegm290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpucodec290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpufeatures2d290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpufilters290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpuimgproc290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpulegacy290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpuoptflow290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpustereo290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_gpuwarping290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_highgui290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_imgproc290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_legacy290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_ml290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_nonfree290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_objdetect290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_ocl290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_optim290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_photo290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_softcascade290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_stitching290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_superres290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_video290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\opencv_videostab290.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\MetroFramework.Design.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\MetroFramework.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\MetroFramework.Fonts.dll
+F:\______Workplace_______\Eye Control\Eye Control\bin\Debug\ZedGraph.dll
+F:\______Workplace_______\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+F:\______Workplace_______\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+F:\______Workplace_______\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+F:\______Workplace_______\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+F:\______Workplace_______\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+C:\Users\Rizban Hussain\Desktop\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\MetroFramework.Design.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\MetroFramework.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\bin\Debug\MetroFramework.Fonts.dll
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+F:\____Eye Pointer_____\__Imagine Cup final\Tomal Project\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+D:\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+D:\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+D:\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+D:\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+D:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+D:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+D:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+D:\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+D:\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+D:\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+D:\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+D:\Eye Control\Eye Control\bin\Debug\MetroFramework.Design.dll
+D:\Eye Control\Eye Control\bin\Debug\MetroFramework.dll
+D:\Eye Control\Eye Control\bin\Debug\MetroFramework.Fonts.dll
+D:\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+D:\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+D:\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+D:\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+E:\amit\Software\Software\DesktopApp\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+E:\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+E:\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+E:\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+E:\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+E:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+E:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+E:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+E:\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+E:\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+E:\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+E:\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+E:\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+E:\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+E:\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+E:\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+E:\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+E:\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+C:\Users\DATS\Desktop\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+C:\Users\DATS\Desktop\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+C:\Users\DATS\Desktop\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+C:\Users\DATS\Desktop\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+C:\Users\DATS\Desktop\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+C:\Users\DATS\Desktop\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+C:\Users\DATS\Desktop\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+C:\Users\DATS\Desktop\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+D:\___Imagine cup _temp\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+D:\___Imagine cup _temp\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\MetroFramework.Design.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\MetroFramework.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\bin\Debug\MetroFramework.Fonts.dll
+D:\___Imagine cup _temp\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+D:\___Imagine cup _temp\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+D:\___Imagine cup _temp\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+D:\___Imagine cup _temp\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+D:\___Imagine cup _temp\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\MetroFramework.Design.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\MetroFramework.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\bin\Debug\MetroFramework.Fonts.dll
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+F:\______Workplace_______\__Semifinal\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+C:\Users\DATS\Desktop\EyePointer_Software\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_eye.xml
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt2.xml
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_alt_tree.xml
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_calib3d2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_contrib2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_core2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_features2d2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_flann2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_gpu2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_highgui2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_imgproc2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_legacy2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_ml2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_nonfree2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_objdetect2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_photo2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_stitching2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_superres2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_video2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\opencv_videostab2410.dll
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\Eye Control.exe
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\Eye Control.pdb
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Pointer.csprojResolveAssemblyReference.cache
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye_Control.Form1.resources
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye_Control.Properties.Resources.resources
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye_Control.security_trigger.resources
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Pointer.csproj.GenerateResource.Cache
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+C:\Users\DATS\Desktop\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
+K:\SemiFinal Refueled\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\bin\Debug\Eye Control.exe.config
+K:\SemiFinal Refueled\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Control.exe
+K:\SemiFinal Refueled\EyePointer_Software_Semifinal\Desktop Application\Codes\Eye Control\Eye Control\obj\Debug\Eye Control.pdb
