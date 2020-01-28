@@ -6,5 +6,8 @@ A system designed for amputees to assist them in using computers. The system pro
 • This system implements the Viola-Jones algorithm for detection (i.e., blink & face).<br/>
 • This system also supports voice commands for different functionalities.<br/>
 
+# How to run
+A webcam is needed to run this system. Go to the stup directory and install. 
+
 # Demo:
 https://www.facebook.com/eyepointer
