@@ -11,6 +11,6 @@ A system designed for amputees to assist them in using computers. The system pro
 https://www.facebook.com/eyepointer
 
 # How to run
-A webcam is needed to run this system. Go to the stup directory and install. 
+A webcam is needed to run this system. Go to the setup directory and install. 
 
 
