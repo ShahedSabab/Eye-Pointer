@@ -7,6 +7,8 @@ A system designed for amputees to assist them in using computers. The system pro
 • This system implements the Viola-Jones algorithm for detection (i.e., blink & face).<br/>
 • This system also supports voice commands for different functionalities.<br/>
 
+Publication Source: [Check the publication](https://www.thinkmind.org/index.php?view=article&articleid=achi_2016_7_30_20308)
+
 # Demo:
 https://www.facebook.com/eyepointer
 
