@@ -9,8 +9,9 @@ A system designed for amputees to assist them in using computers. The system pro
 
 Publication Source: [Check the publication](https://www.thinkmind.org/index.php?view=article&articleid=achi_2016_7_30_20308)
 
-Demo: [Check the demo](https://www.youtube.com/watch?v=aoOTZhSQamU&feature=youtu.be)
-# Demo:
+Demo: [Check the demonstration](https://www.youtube.com/watch?v=aoOTZhSQamU&feature=youtu.be)
+
+# Project Page:
 https://www.facebook.com/eyepointer
 
 # How to run
